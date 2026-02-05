@@ -1,0 +1,15 @@
+[dotenv@17.2.3] injecting env (9) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+Server running on port 5000
+MongoDB connected successfully
+Login attempt for email: waniafatima5500@gmail.com at 2026-01-21T15:42:43.715Z
+User found: true
+Password match successful for user: new ObjectId('697099a701caeb0dd280cf6f')
+Generated token for user: new ObjectId('697099a701caeb0dd280cf6f')
+Login attempt for email: waniafatima5500@gmail.com at 2026-01-21T15:52:57.963Z
+User found: true
+Password match successful for user: new ObjectId('697099a701caeb0dd280cf6f')
+Generated token for user: new ObjectId('697099a701caeb0dd280cf6f')
+Login attempt for email: waniafatima5500@gmail.com at 2026-01-21T18:25:30.288Z
+User found: true
+Password match successful for user: new ObjectId('697099a701caeb0dd280cf6f')
+Generated token for user: new ObjectId('697099a701caeb0dd280cf6f')
