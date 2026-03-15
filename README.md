@@ -90,9 +90,9 @@ npm run dev
 Open http://localhost:5173 (or your Vite port) in the browser.
 📸 Screenshots
 ### SignUp page Screen
-![Login Screen](screenshots/SignUp page.png)
+![Login Screen](screenshots/SignUp%20page.png)
 ### Login Screen
-![Login Screen](screenshots/Login page.png)
+![Login Screen](screenshots/Login%20page.png)
 ### Dashboard
 The dashboard shows your current balance, expense summary, and charts.
 ![Dashboard](screenshots/Dashboard.png)
@@ -101,15 +101,15 @@ The dashboard shows your current balance, expense summary, and charts.
 ### Income Screen
 ![Income Screen](screenshots/Income.png)
 ### Add Expense Screen
-![Add Expense Screen](screenshots/Add Expense.png)
+![Add Expense Screen](screenshots/Add%20Expense.png)
 ### Analytics Screen
 ![Analytics Screen](screenshots/Analytics.png)
 ### Budget Screen
 ![Budget  Screen](screenshots/Budget.png)
 ### Profile Setting  page Screen
-![Profile Setting Page Screen](screenshots/Profile Setting page.png)
+![Profile Setting Page Screen](screenshots/Profile%20Setting%20page.png)
 ### DarkTheme Dashboard Screen
-![DarkTheme Dashboard Screen](screenshots/DarkTheme Dashboard.png)
+![DarkTheme Dashboard Screen](screenshots/DarkTheme%20Dashboard.png)
 ###Recurring Screen
 ![Recurring Screen](screenshots/Recurring.png)
 ###Goals Screen
