@@ -1,7 +1,6 @@
 # SmartSpend – Personal Expense Tracker
 
-![SmartSpend Banner](https://via.placeholder.com/1200x400/4F46E5/FFFFFF?text=SmartSpend+-+Track+Your+Finances+Smartly)  
-<!-- Replace the placeholder image above with a real screenshot of your app dashboard -->
+![SmartSpend Banner](screenshots/Dashboard.png)
 
 **SmartSpend** is a full-stack personal finance web application that helps users track income, expenses, set budgets, and gain insights into their spending habits. Built with a modern tech stack, it includes secure user authentication (with forgot password functionality), real-time data updates, and a clean, responsive user interface.
 
@@ -90,9 +89,9 @@ npm run dev
 Open http://localhost:5173 (or your Vite port) in the browser.
 📸 Screenshots
 ### SignUp page Screen
-![Login Screen](screenshots/SignUp%20page.png)
+![SignUp Screen](screenshots/Signup.png)
 ### Login Screen
-![Login Screen](screenshots/Login%20page.png)
+![Login Screen](screenshots/Login.png)
 ### Dashboard
 The dashboard shows your current balance, expense summary, and charts.
 ![Dashboard](screenshots/Dashboard.png)
@@ -107,7 +106,7 @@ The dashboard shows your current balance, expense summary, and charts.
 ### Budget Screen
 ![Budget  Screen](screenshots/Budget.png)
 ### Profile Setting  page Screen
-![Profile Setting Page Screen](screenshots/Profile%20Setting%20page.png)
+![Profile setting Screen](screenshots/Profile%20setting.png)
 ### DarkTheme Dashboard Screen
 ![DarkTheme Dashboard Screen](screenshots/DarkTheme%20Dashboard.png)
 ###Recurring Screen
