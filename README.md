@@ -88,31 +88,34 @@ npm run dev    # or npm start
 npm run dev
 Open http://localhost:5173 (or your Vite port) in the browser.
 📸 Screenshots
-### SignUp page Screen
-![SignUp Screen](screenshots/Signup.png)
-### Login Screen
-![Login Screen](screenshots/Login.png)
+## 📸 Screenshots
+
+### Sign Up Page
+![SignUp](screenshots/Signup.png)
+
+### Login Page
+![Login](screenshots/Login.png)
+
 ### Dashboard
-The dashboard shows your current balance, expense summary, and charts.
 ![Dashboard](screenshots/Dashboard.png)
-### Expense Screen
-![Expense Screen](screenshots/Expense.png)
+
 ### Income Screen
-![Income Screen](screenshots/Income.png)
+![Income](screenshots/Income.png)
+
 ### Add Expense Screen
-![Add Expense Screen](screenshots/Add%20Expense.png)
+![Add Expense](screenshots/Add_Expense.png)
+
 ### Analytics Screen
-![Analytics Screen](screenshots/Analytics.png)
+![Analytics](screenshots/Analytics.png)
+
 ### Budget Screen
-![Budget  Screen](screenshots/Budget.png)
-### Profile Setting  page Screen
-![Profile setting Screen](screenshots/Profile%20setting.png)
-### DarkTheme Dashboard Screen
-![DarkTheme Dashboard Screen](screenshots/DarkTheme%20Dashboard.png)
-###Recurring Screen
-![Recurring Screen](screenshots/Recurring.png)
-###Goals Screen
-![Goals Screen](screenshots/Goals.png)
+![Budget](screenshots/Budget.png)
+
+### Profile Settings
+![Profile Setting](screenshots/Profile_setting.png)
+
+### Dark Theme Dashboard
+![Dark Theme](screenshots/DarkTheme_Dashboard.png)
 
 🗂 Project Structure
 textsmartspend/
